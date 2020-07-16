@@ -7,7 +7,7 @@ import 'package:peliculas/src/models/actores_model.dart';
 import 'package:peliculas/src/models/pelicula_model.dart';
 
 class PeliculasProvider {
-  String _apiKey = '45824cb584d559def9d14b1bbb39a1ad';
+  String _apiKey = '';
   String _url = 'api.themoviedb.org';
   String _language = 'es-ES';
 
